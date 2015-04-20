@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <string name="default_speed">20</string>
+    <string name="default_bullet_speed">50</string>
+    <string name="default_bullet_time">450</string>
+    <string name="default_blocks_speed">24</string>
+    <string name="default_powerups_speed">2</string>
+    <string name="max_speed">70</string>
+    <string name="upgrade_costs_speed_small">5</string>
+    <string name="upgrade_costs_speed_big">40</string>
+    
+    
+    
+</resources>
